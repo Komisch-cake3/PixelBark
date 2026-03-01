@@ -11,6 +11,7 @@
   "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"Cutscene Frames","folderPath":"folders/Cutscene Frames.yy","name":"Cutscene Frames","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Items","folderPath":"folders/Items.yy","name":"Items","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -22,6 +23,7 @@
   },
   "name":"platformer",
   "resources":[
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},},
     {"id":{"name":"oFlashbang","path":"objects/oFlashbang/oFlashbang.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -32,6 +34,7 @@
     {"id":{"name":"LEVEL1","path":"rooms/LEVEL1/LEVEL1.yy",},},
     {"id":{"name":"LEVEL2","path":"rooms/LEVEL2/LEVEL2.yy",},},
     {"id":{"name":"sBack","path":"sprites/sBack/sBack.yy",},},
+    {"id":{"name":"sCoin","path":"sprites/sCoin/sCoin.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sFlashbang","path":"sprites/sFlashbang/sFlashbang.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
